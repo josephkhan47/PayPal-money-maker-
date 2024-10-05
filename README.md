@@ -45,11 +45,11 @@
     <div class="balance">Your Balance: £0.00</div>
 
     <!-- Replace the links below with your actual URLs -->
-    <a href="https://example.com/signup" class="button">Sign Up for Surveys</a>
+    <a href="https://google.com/signin" class="button">Sign in for Surveys</a>
     <br>
-    <a href="https://example.com/cashout" class="button">Cash Out to PayPal</a>
+    <a href="https://paypal.com/cashout" class="button">Cash Out to PayPal</a>
     <br>
-    <a href="https://example.com/convert-points" class="button">Convert Points to £</a>
+    <a href="https://paypal.com/convert-points" class="button">Convert Points to £</a>
     
     <p>Note: You need to sign in to your PayPal account to cash out.</p>
 </body>
